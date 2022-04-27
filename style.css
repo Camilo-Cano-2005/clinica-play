@@ -1,3 +1,7 @@
+header nav.navbar-dark {
+    background-color: black;
+}
+
 nav.navbar div.collapse li.nav-item a:hover {
     transform: scale(1.05);
     transition: all ease-in 0.1s;
